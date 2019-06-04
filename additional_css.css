@@ -1,0 +1,9 @@
+body {
+  background-color: #882323;
+  border: #911BC1 1px solid;
+  cursor:url(https://raw.githubusercontent.com/DreamlandSuperstar/MAL_sources/master/cursor.png) 1 2, auto;
+}
+
+a:hover{
+  cursor:url(https://raw.githubusercontent.com/DreamlandSuperstar/MAL_sources/master/cursor_1_.png) 1 2, auto;
+}
