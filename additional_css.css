@@ -8,6 +8,9 @@ a:hover{
   cursor:url(https://raw.githubusercontent.com/DreamlandSuperstar/MAL_sources/master/cursor_1_.png) 1 2, auto;
 }
 
-.header .header-title{
+.header .header-title{  
+  width: 325px;
+  height: 85px;
+  background-size:auto 40px;
   background-image:url(https://raw.githubusercontent.com/DreamlandSuperstar/MAL_sources/master/header-title.png);
 }
