@@ -7,3 +7,7 @@ body {
 a:hover{
   cursor:url(https://raw.githubusercontent.com/DreamlandSuperstar/MAL_sources/master/cursor_1_.png) 1 2, auto;
 }
+
+.header .header-title{
+  background-image:url(https://raw.githubusercontent.com/DreamlandSuperstar/MAL_sources/master/header-title.png);
+}
